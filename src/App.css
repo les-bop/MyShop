@@ -1,0 +1,20 @@
+body {
+  font-family: 'Chelsea Market', cursive;
+  padding: 20px 40px;
+
+  /*background-image: url('./assets/androv3.png') ;
+      Full height */
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+* {
+  box-sizing: border-box;
+}
